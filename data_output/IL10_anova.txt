@@ -1,0 +1,11 @@
+Call:
+   aov(formula = IL10 ~ IBS.subtype, data = IBS)
+
+Terms:
+                IBS.subtype Residuals
+Sum of Squares     14.67454  94.39698
+Deg. of Freedom           1        50
+
+Residual standard error: 1.374023
+Estimated effects may be unbalanced
+59 observations deleted due to missingness
