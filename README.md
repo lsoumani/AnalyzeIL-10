@@ -152,3 +152,11 @@ s3d$plane3d(fit)
 
 ![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
 ##
+
+###c1 <- rainbow(10)
+c2 <- rainbow(10, alpha=0.3)
+c3 <- rainbow(10, v=0.8)
+boxplot(il10 ~ IBS.subtype, data = IBS, main="il10 by IBS subtype", 
+                       xlab = "IBS.subtype", ylab = "il10", col=c2, medcol=c3, whiskcol=c1, staplecol=c3, boxcol=c3, outcol=c3, pch=23, cex=2)
+dev.copy(png,"fig_output/il10_boxplot.png")
+dev.off()
