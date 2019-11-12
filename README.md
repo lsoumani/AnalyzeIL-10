@@ -165,3 +165,4 @@ lm(formula = BMI ~ IL10, data = IBS1)
 Coefficients:
 (Intercept)         IL10 
      31.9454        -0.5004
+![](fig_output/IL10_boxplot.png)
