@@ -121,7 +121,7 @@ Coefficients:
 ![BMI_CRP](../master/Images/BMIxCRP.png?sanitize=true)
 ##
 ##
-### Results of multiple regression, BMI x IL10 + C-Reactive Protein (CRP)
+### Results of multiple regression, BMI x IL10 
 
 > fit1 <- lm(BMI ~ IL10 + CRP, data=IBS1)
 > summary(fit1)
@@ -150,7 +150,7 @@ s3d <- scatterplot3d(IBS$BMI, IBS$IL10, IBS$CRP,  pch=16, color="steelblue", box
 fit <- lm(IL10 ~ BMI + CRP, data=IBS)
 s3d$plane3d(fit)
 
-![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
+![]()
 
 ## RESULT OF SINGLE REGRESSION BMI, IL10 BOXPLOT FROM ANOVA
 
