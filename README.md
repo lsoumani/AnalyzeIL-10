@@ -85,7 +85,7 @@ IBS$IL10_result[IBS$IL10 < 0.25] <- "LOW"
 
 write.csv(IBS, "data_output/IL10_result.csv")
 
-### Results of single regression, BMI x IL10
+### Results of single regression, BMI x IL10 scatterplot
 
 > single.regression <- lm(BMI ~ IL10, data=IBS1)
 > print(single.regression)
@@ -151,12 +151,17 @@ fit <- lm(IL10 ~ BMI + CRP, data=IBS)
 s3d$plane3d(fit)
 
 ![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
-##
 
-###c1 <- rainbow(10)
-c2 <- rainbow(10, alpha=0.3)
-c3 <- rainbow(10, v=0.8)
-boxplot(il10 ~ IBS.subtype, data = IBS, main="il10 by IBS subtype", 
-                       xlab = "IBS.subtype", ylab = "il10", col=c2, medcol=c3, whiskcol=c1, staplecol=c3, boxcol=c3, outcol=c3, pch=23, cex=2)
-dev.copy(png,"fig_output/il10_boxplot.png")
-dev.off()
+## RESULT OF SINGLE REGRESSION BMI, IL10 BOXPLOT FROM ANOVA
+
+ggplot(IBS, aes(x = BMI, y = IL10)) + geom_point() + geom_smooth(method = lm) 
+> png("fig_output/IL10_boxplot.png")
+> Lymphocytes_boxplot <- ggplot(IBS, aes(x = BMI, y = IL10)) + geom_point() + geom_smooth(method = lm) 
+> print(IL10_boxplot)
+
+Call:
+lm(formula = BMI ~ IL10, data = IBS1)
+
+Coefficients:
+(Intercept)         IL10 
+     31.9454        -0.5004
