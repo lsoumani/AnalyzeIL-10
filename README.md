@@ -117,7 +117,7 @@ ggplot(IBS, aes(x = BMI, y = IL10)) + geom_point() + geom_smooth(method = lm)
 > print(IL10_boxplot)
 
 Call:
-lm(formula = BMI ~ IL10, data = IBS1)
+lm(formula = BMI ~ IL10, data = IBS1 )
 
 Coefficients:
 (Intercept)         IL10 
