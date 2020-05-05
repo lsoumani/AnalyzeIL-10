@@ -86,7 +86,7 @@ write.csv(IBS, "data_output/IL10_result.csv")
 
 
 ## BTEC395 F2020 
-Project by loic soumani
+homework-Project 
 
 
 setwd("./")
