@@ -1,0 +1,5000 @@
+$A2M
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1659.17       -81.65  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9631.1       -202.5  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   65653.56       -45.73  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9366.3        565.6  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    48129.7       -344.9  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     220231         8979  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     324815         4623  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     720713        28777  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     506.25       -41.24  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4674.0       -170.2  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     635913         5754  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     494.92       -89.05  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3853.39        97.09  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    6662.67        10.22  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9333.5        636.8  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     160246        -3119  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      95673        -2031  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   80202.04       -84.78  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      33043        -1783  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     113169        -2328  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      704.1       -109.4  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2256.4       -228.5  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     973.15       -51.36  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       1547         -204  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     580.08       -60.04  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     170920        -9402  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   120713.6        406.2  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4883.9       -218.3  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    17721.8        344.9  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     374248         5585  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      22475         1308  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    37027.7       -632.2  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      40162        -2187  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3752.12       -99.18  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2001.97       -84.08  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2149.4       -124.4  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      99110         1337  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1974.21        51.03  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      64891         1781  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3169.9       -126.5  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      56343         1548  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19262.0        446.8  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22911.1        601.2  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     321356         1985  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      95758         3249  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     177173         4132  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26099        -1394  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      44999         1688  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   114914.9        589.5  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     869085       -20086  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     186139         4511  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     242646       -14500  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      74566        -3398  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      45884         1240  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     172677         8194  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3891.5       -433.1  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      53322         1272  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1822.3       -293.4  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12008.7       -617.8  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     681.54       -64.03  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     926521      -131019  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    62625.3       -484.3  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3025.78       -85.92  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     265.78       -31.55  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     147370        -5373  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     132619       -32009  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1163504       -30431  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   14852.95       -16.78  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3515.2       -471.1  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      35456        -6355  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      66480        -4957  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26849         1193  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     117468         1218  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7122.9       -193.4  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      49111        -2505  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     227995        -5481  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     112016         -418  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    73629.4        229.4  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1101595       -90624  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    46344.4       -592.1  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    87160.1        736.1  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     267651         1236  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7136.1       -587.6  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9618.2       -518.7  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26440         2530  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     354386         1820  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   59018.95       -15.85  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     445417        51387  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       7842          145  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     239522        -3861  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5075.7        -27.1  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22526.5       -360.5  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5263.8       -616.7  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     315009        -4608  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2969.7       -334.7  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     107241        -2526  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      23087          763  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1273508        26844  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    58719.1        402.3  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1703.6       -116.1  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     193279         5978  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    10059.0        204.4  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   39887.52       -19.18  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     340830         8913  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      51550         1999  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      56279        -3534  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2540.3        -82.1  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      98876        -4314  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   77603.22       -96.39  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      39634         1382  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     288.99       -48.03  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      74464       -12498  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      48504         1211  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4510.5       -112.9  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1804.5       -143.5  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    9457.90       -36.16  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     890.16       -71.06  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4646.7       -487.2  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      519.0        -46.8  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     177494         6055  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1166.8       -135.4  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    13972.5       -800.5  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      23733        -5104  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1083.1       -144.8  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1520.1       -144.1  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19215.9        196.1  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2007.3       -140.8  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7450.3       -130.3  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1206.2       -127.2  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     154097       -11002  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2039.2       -245.2  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3368.47       -79.03  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3900.6       -238.2  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     970092        12927  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      39623        -1298  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     160549        -3316  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       4384         -752  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19136.5        156.5  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     850.57       -52.84  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10767         -461  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     130861        -3507  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    11821.7       -278.2  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      57536        -6110  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     347537       -33761  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      30320        -1631  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2298.43       -24.12  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3303.4       -439.7  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      58543         5115  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     139379        11182  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    17716.6        429.7  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     705107        -5709  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      46067         3443  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   68486.41       -75.78  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1190.33       -97.09  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    5517.02       -96.57  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    61309.9        697.5  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   18461.92       -73.55  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5174.6       -210.2  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    8833602        14143  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2718.1       -249.4  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+ 49575.3787      -0.2754  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      87257         2856  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     139354         5115  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9675.2       -251.1  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      682.5       -141.5  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      40005         -298  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     189700         1177  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22620.0        641.4  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4969.7       -618.7  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       6099        -1162  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     358307       -16166  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3943.2        133.2  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12321.1       -229.8  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    58331.6       -956.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1515.92        48.85  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     137390       -21438  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   24367.92        63.28  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    32905.8        612.2  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    6510.01       -83.33  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4371.2       -757.9  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    40137.7        589.9  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      96568        -2454  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     469162       -11539  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      28578        -1300  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    10016.8        292.9  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     128655         3690  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      30574        -2390  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   141068.3        669.7  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      79994         1024  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    28513.8        616.6  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1846.67       -91.45  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     961.74        31.72  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       2159         -203  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     223488        -8934  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     440960        29942  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3000.18       -98.19  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     148198         2843  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2151.9       -325.7  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7405.9       -242.1  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7885.8       -271.6  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      88757        -1750  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      93707        -2798  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      58746        -1779  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      14371        -1626  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     305861        19414  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     130361         2340  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     117255         2777  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   14723.55       -54.45  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    21125.2       -135.8  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     115679         2309  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       8219         -232  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    5979842       -36776  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    26339.4        535.7  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      53758         2709  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4692.2       -281.8  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      15089        -3068  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     136793         4761  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10049        -1785  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   102389.2        476.7  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     510081       -38019  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2193.59        30.25  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      43786         1353  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12390.2       -225.9  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     161060         4769  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2542.8       -155.3  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1481.1       -116.1  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      57968         1201  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      65967         5046  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     955959       -44925  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2590.85       -52.04  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      83875         3154  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     141354        -3294  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     109962        -3142  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    33264.2       -394.4  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      20568        -1015  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10551         -431  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2103.29       -49.54  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2384.45        37.11  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    60647.7        508.9  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4626.7       -101.5  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    51613.3       -972.4  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      73919         2742  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     201047        -1929  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      45824         2408  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     876394       -33680  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      15724         1541  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    23067.7       -599.8  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22792.2        305.7  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     871046        14938  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     614.37       -18.15  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1659.17       -81.65  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9631.1       -202.5  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   65653.56       -45.73  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9366.3        565.6  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    48129.7       -344.9  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     220231         8979  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     324815         4623  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     720713        28777  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     506.25       -41.24  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4674.0       -170.2  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     635913         5754  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     494.92       -89.05  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3853.39        97.09  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    6662.67        10.22  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9333.5        636.8  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     160246        -3119  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      95673        -2031  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   80202.04       -84.78  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      33043        -1783  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     113169        -2328  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      704.1       -109.4  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2256.4       -228.5  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     973.15       -51.36  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       1547         -204  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     580.08       -60.04  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     170920        -9402  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   120713.6        406.2  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4883.9       -218.3  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    17721.8        344.9  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     374248         5585  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      22475         1308  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    37027.7       -632.2  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      40162        -2187  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3752.12       -99.18  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2001.97       -84.08  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2149.4       -124.4  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      99110         1337  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1974.21        51.03  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      64891         1781  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3169.9       -126.5  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      56343         1548  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19262.0        446.8  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22911.1        601.2  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     321356         1985  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      95758         3249  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     177173         4132  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26099        -1394  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      44999         1688  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   114914.9        589.5  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     869085       -20086  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     186139         4511  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     242646       -14500  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      74566        -3398  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      45884         1240  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     172677         8194  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3891.5       -433.1  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      53322         1272  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1822.3       -293.4  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12008.7       -617.8  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     681.54       -64.03  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     926521      -131019  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    62625.3       -484.3  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3025.78       -85.92  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     265.78       -31.55  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     147370        -5373  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     132619       -32009  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1163504       -30431  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   14852.95       -16.78  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3515.2       -471.1  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      35456        -6355  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      66480        -4957  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26849         1193  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     117468         1218  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7122.9       -193.4  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      49111        -2505  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     227995        -5481  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     112016         -418  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    73629.4        229.4  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1101595       -90624  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    46344.4       -592.1  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    87160.1        736.1  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     267651         1236  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7136.1       -587.6  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9618.2       -518.7  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      26440         2530  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     354386         1820  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   59018.95       -15.85  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     445417        51387  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       7842          145  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     239522        -3861  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5075.7        -27.1  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22526.5       -360.5  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5263.8       -616.7  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     315009        -4608  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2969.7       -334.7  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     107241        -2526  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      23087          763  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1273508        26844  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    58719.1        402.3  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1703.6       -116.1  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     193279         5978  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    10059.0        204.4  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   39887.52       -19.18  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     340830         8913  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      51550         1999  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      56279        -3534  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2540.3        -82.1  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      98876        -4314  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   77603.22       -96.39  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      39634         1382  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     288.99       -48.03  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      74464       -12498  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      48504         1211  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4510.5       -112.9  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1804.5       -143.5  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    9457.90       -36.16  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     890.16       -71.06  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4646.7       -487.2  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      519.0        -46.8  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     177494         6055  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1166.8       -135.4  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    13972.5       -800.5  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      23733        -5104  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1083.1       -144.8  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1520.1       -144.1  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19215.9        196.1  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2007.3       -140.8  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7450.3       -130.3  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1206.2       -127.2  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     154097       -11002  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2039.2       -245.2  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3368.47       -79.03  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3900.6       -238.2  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     970092        12927  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      39623        -1298  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     160549        -3316  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       4384         -752  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    19136.5        156.5  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     850.57       -52.84  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10767         -461  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     130861        -3507  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    11821.7       -278.2  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      57536        -6110  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     347537       -33761  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      30320        -1631  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2298.43       -24.12  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3303.4       -439.7  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      58543         5115  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     139379        11182  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    17716.6        429.7  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     705107        -5709  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      46067         3443  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   68486.41       -75.78  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1190.33       -97.09  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    5517.02       -96.57  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    61309.9        697.5  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   18461.92       -73.55  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     5174.6       -210.2  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    8833602        14143  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2718.1       -249.4  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+ 49575.3787      -0.2754  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      87257         2856  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     139354         5115  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     9675.2       -251.1  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      682.5       -141.5  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      40005         -298  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     189700         1177  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22620.0        641.4  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4969.7       -618.7  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       6099        -1162  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     358307       -16166  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     3943.2        133.2  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12321.1       -229.8  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    58331.6       -956.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1515.92        48.85  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     137390       -21438  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   24367.92        63.28  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    32905.8        612.2  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    6510.01       -83.33  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4371.2       -757.9  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    40137.7        589.9  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      96568        -2454  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     469162       -11539  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      28578        -1300  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    10016.8        292.9  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     128655         3690  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      30574        -2390  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   141068.3        669.7  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      79994         1024  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    28513.8        616.6  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    1846.67       -91.45  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     961.74        31.72  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       2159         -203  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     223488        -8934  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     440960        29942  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    3000.18       -98.19  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     148198         2843  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2151.9       -325.7  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7405.9       -242.1  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     7885.8       -271.6  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      88757        -1750  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      93707        -2798  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      58746        -1779  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      14371        -1626  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     305861        19414  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     130361         2340  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     117255         2777  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   14723.55       -54.45  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    21125.2       -135.8  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     115679         2309  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+       8219         -232  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    5979842       -36776  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    26339.4        535.7  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      53758         2709  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4692.2       -281.8  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      15089        -3068  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     136793         4761  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10049        -1785  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+   102389.2        476.7  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     510081       -38019  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2193.59        30.25  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      43786         1353  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    12390.2       -225.9  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     161060         4769  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     2542.8       -155.3  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     1481.1       -116.1  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      57968         1201  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      65967         5046  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     955959       -44925  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2590.85       -52.04  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      83875         3154  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     141354        -3294  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     109962        -3142  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    33264.2       -394.4  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      20568        -1015  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      10551         -431  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2103.29       -49.54  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    2384.45        37.11  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    60647.7        508.9  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     4626.7       -101.5  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    51613.3       -972.4  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      73919         2742  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     201047        -1929  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      45824         2408  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     876394       -33680  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+      15724         1541  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    23067.7       -599.8  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+    22792.2        305.7  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     871046        14938  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ serum.IL10, data = IBS)
+
+Coefficients:
+(Intercept)   serum.IL10  
+     614.37       -18.15  
+
+
