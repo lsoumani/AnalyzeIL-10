@@ -1,0 +1,20 @@
+Call:
+   aov(formula = TGFB1 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares  4.039474e+11 2.761639e+13
+Deg. of Freedom            2           93
+
+Residual standard error: 544931.6
+Estimated effects may be unbalanced
+Call:
+   aov(formula = TGFB1 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares  4.039474e+11 2.761639e+13
+Deg. of Freedom            2           93
+
+Residual standard error: 544931.6
+Estimated effects may be unbalanced
