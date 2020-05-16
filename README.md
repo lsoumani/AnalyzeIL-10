@@ -125,7 +125,14 @@ Coefficients:
      
 ![](fig_output/IL10_boxplot.png)
 
-## Data Frames and VolcanoPlots
+##
+##
+
+# <p align = "center"> BTEC395 PROJECT
+# <p align = "center"> Data Transformation and Volcano Plots
+  
+  
+  ### Discription About the project
  
   (BTEC395-IL10finalproject.R) IS a project that permits to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. IL10 gene.
    
@@ -184,5 +191,5 @@ for(i in names(IBS)[28:277]){
  #### Gene Ontology of IL10 gene
  This analysis is going to compute all the significant genes in IL10 count observed in the VolcanoPlot. 
  
- + The result of the gene ontology of Cxcl10, FPR2, CCNG2, TARP2   shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
+ + ETV3 is a Transcriptional repressor that contribute to growth arrest during terminal macrophage differentiation by repressing target genes involved in Ras-dependent proliferation. It is located on 1q23.1. The ETV3 gene is conserved in chimpanzee, dog, cow, mouse, rat, chicken, and frog. 113 organisms have orthologs with human gene ETV3.
 ![](fig_output/IL10plot.png)
