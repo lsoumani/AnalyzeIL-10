@@ -124,3 +124,5 @@ Coefficients:
      31.9454        -0.5004
      
 ![](fig_output/IL10_boxplot.png)
+
+![](fig_output/IL10plot.png)
