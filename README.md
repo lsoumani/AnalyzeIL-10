@@ -125,4 +125,64 @@ Coefficients:
      
 ![](fig_output/IL10_boxplot.png)
 
+## Data Frames and VolcanoPlots
+ 
+  (BTEC395-IL10finalproject.R) IS a project that permits to load a comma-delimited .csv with various datapoints, perform single regressions and anova of each gene expressed in the .csv file vs. IL10 gene.
+   
+   The project further  allows to perform a recursive analysis for regression which creates a date frame list to store all the genes necessary for the analysis. Transformations such as log2 FC and -log10 will be combined and exported to create a volcanoplot which computes the signfiance of each gene and relevance to the analysis being performed.
+   
+   <p style="text-indent: 160px"> The lines of codes used in this analysis were downloaded from:   
+https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r.
+https://stackoverflow.com/questions/44170937/performing-lm-and-segmented-on-multiple-columns-in-r.
+http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/.
+https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html.
+
+
+## Recursive analysis for regression  - RNA Expression ##
+### Access only the columns with RNA Expression
+```
+> names(IBS1)[37:286]
+```
+### Make a data frame of list type
+```
+> storage <- list()
+```
+
+### linear regression for each expressed gene vs parameter 
+```
+for(i in names(IBS1)[37:286]){
+ > storage[[i]]  <- lm(get(i) ~ IL10 , IBS1)
+}
+```
+### Make a list of anova(lm()) results for parameter
+```
+> storage3 <- list()
+
+for(i in names(IBS)[28:277]){
+> storage3[[i]]  <- anova(lm(get(i) ~ IL10, IBS))
+}
+ ```
+
+### IL10 volcanoplot 
+
+ ![VolcanoPlot vs IL10](fig_output/IL10plot.png)
+ 
+ ### Gene Significance for IL10
+ 
+  | Gene | Name|
+  |------|-----|
+  | ETV3 | ETS Variant Transcription Factor 3|
+  
+ 
+ 
+ ###           Gene Ontology: Concept
+ Gene Ontology is a major bioinformatics initiative to unify the representation of gene and gene product attributes across all species
+ 
+ The following analysis can be performed on the website: http://www.pantherdb.org/tools/compareToRefList.jsp
+ 
+ 
+ #### Gene Ontology of IL10 gene
+ This analysis is going to compute all the significant genes in IL10 count observed in the VolcanoPlot. 
+ 
+ + The result of the gene ontology of Cxcl10, FPR2, CCNG2, TARP2   shows the Iflammation mediated by chemokine and cytokine signaling pathway which directs the migration of white blood cells to infected or damaged tissues. Both chemokines and cytokines use chemical signals to induce changes in other cells, but are specialized to cause cell movement.
 ![](fig_output/IL10plot.png)
