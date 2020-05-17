@@ -193,3 +193,6 @@ for(i in names(IBS)[28:277]){
  
  + ETV3 is a Transcriptional repressor that contribute to growth arrest during terminal macrophage differentiation by repressing target genes involved in Ras-dependent proliferation. It is located on 1q23.1. The ETV3 gene is conserved in chimpanzee, dog, cow, mouse, rat, chicken, and frog. 113 organisms have orthologs with human gene ETV3.
 ![](fig_output/IL10plot.png)
+
+### Panther Analysis
+All of the significant genes for IL10 and IL10_PCT did not show any significant pathways in Pantherdb.org
